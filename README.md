@@ -1,2 +1,2 @@
-# Dataapplication
-C# and arduino with multiple sensor
+# DAQ SIMULATOR
+C# and DAQ simulator
